@@ -1,0 +1,6 @@
+{
+  "name": "PO Universal - Modern PO & Business Management",
+  "description": "Production-ready PO and business management system for UMKM with order workflows, WhatsApp invoicing, cashflow tracking, financial reports, and Google Sheets sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
